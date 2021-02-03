@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiskaaAndroidTask</string>
+    <string name="country_name">Name</string>
+    <string name="country_capital">Capital</string>
+    <string name="country_region">Region</string>
+    <string name="country_sub_region">Sub Region</string>
+    <string name="country_population">Population</string>
+    <string name="country_border">Border</string>
+    <string name="country_languages">Languages</string>
+    <string name="india">India</string>
+</resources>
